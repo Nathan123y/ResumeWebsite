@@ -1,0 +1,18 @@
+p{
+color: black;
+}
+h1{
+    font-size: 45px;border-bottom: 6px solid black; line-height: 80px;
+}
+div{
+    border: 1px solid black; margin: 0px 650px; padding: 230px; box-shadow: 8px 8px 8px black;
+}
+h3{
+    color: blue 
+}
+.fixit{
+    color:blue
+}
+li{
+    color: black;
+}
